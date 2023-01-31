@@ -1,0 +1,6 @@
+CB customer details are:
+[CB, CUR, Jay, Spura, 948509345, CBJay1688, CBCURJay1434, 1000]
+SBI customer details are:
+[SBI, SAV, Shah, Uhalli, 938029589, SBIShah1381, SBISAVShah1669, 1500]
+[SBI, SAV, Sri, Vnagar, 398013598, SBISri1445, SBISAVSri1538, 1200]
+----------******-----------
